@@ -1,0 +1,1 @@
+curl -s -X GET https://cms.synapz.pro/styles | python3 -m json.tool > style.json
